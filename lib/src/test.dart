@@ -103,7 +103,8 @@ import 'package:cs_conversions/cs_conversions.dart';
 void main(List<String> args) {
   // Cs.deciToOctal(input: '123456');
 
-print(cs.deciToBin(input: "10"));
+print(CS.deciToBin(input: "10"));
+
 
 
 }
