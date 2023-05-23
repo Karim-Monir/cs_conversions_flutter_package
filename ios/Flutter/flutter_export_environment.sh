@@ -3,6 +3,7 @@
 export "FLUTTER_ROOT=/opt/homebrew/Caskroom/flutter/3.3.10/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/karim/Desktop/personal_projects/cs_conversions/cs_conversions"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
+export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.0.1"
 export "FLUTTER_BUILD_NUMBER=0.0.1"
